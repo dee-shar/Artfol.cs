@@ -3,7 +3,7 @@ Mobile-API for Artfol an application which is more than just an art platform - i
 
 ## Example
 ```cs
-using ArfolApi;
+using ArtfolApi;
 
 namespace Application
 {
