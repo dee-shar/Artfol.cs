@@ -3,7 +3,7 @@ using System.Text.Json;
 using System.Net.Http.Json;
 using System.Net.Http.Headers;
 
-namespace ArfolApi
+namespace ArtfolApi
 {
     public class Artfol
     {
